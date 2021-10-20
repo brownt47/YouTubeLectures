@@ -1,6 +1,6 @@
-### Statistics Lectures
+### Stats Lectures
 <p>
-Few of the lectures I prepared when my statistics course switched to online in the spring of 2021 due to the pandemic.
+Few of the lectures I prepared when my statistics course switched to online in the spring of 2020 due to the pandemic.
 </p>
 
 
