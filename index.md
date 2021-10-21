@@ -1,25 +1,26 @@
-### Stats Lectures <br>
+# Stats Lectures <br>
 <p>
 Few of the lectures I prepared when my statistics course switched to online in the spring of 2020 due to the pandemic.
 </p>
 
+<h4 align="center">Material Bread</h4> <br>
+
+#### Probability review before introducing continous uniform distributions** 
+
 <p align = "center">
-**Probability review before introducing continous uniform distributions** 
-
-
 <iframe width="280" height="157" src="https://www.youtube.com/embed/I9yNWkfVnso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
-<p align = "center">
-**Continuous Uniform Distributions**
 
+**Continuous Uniform Distributions**
+<p align = "center">
 <iframe width="280" height="157" src="https://www.youtube.com/embed/I9yNWkfVnso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
 #### Normal Distributions
-<p>
+<p align = "center">
 <iframe width="280" height="157" src="https://www.youtube.com/embed/B8UuG4VLo-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
